@@ -9,6 +9,16 @@
             "projectName": "java-spring-restful",
             "args": "",
             "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-JobhunterApplication<jobhunter-java-spring-restful>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "vn.hoidanit.jobhunter.JobhunterApplication",
+            "projectName": "jobhunter-java-spring-restful",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
         }
     ]
 }
